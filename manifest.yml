@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: Charity-honeywell2017
+  host: Charity-honeywell2017
+  disk_quota: 1024M
